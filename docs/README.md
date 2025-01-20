@@ -1,1 +1,3 @@
-# Example `scratch-notes` project
+# Raspberry Pi pico
+
+![image](./picow-pinout.svg)

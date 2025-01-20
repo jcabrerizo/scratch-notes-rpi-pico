@@ -16,7 +16,7 @@ extensions to suit your preferences.
 To change the name of the generated site, which defaults to "Example," follow this simple command:
 
 ```bash
-SITE_NAME="My new notes site"
+SITE_NAME="Raspberry Pi Pico notes"
 sed -i "/site_name: Example/c\site_name: $SITE_NAME" mkdocs.yml
 ```
 
